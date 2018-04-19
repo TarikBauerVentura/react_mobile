@@ -6,6 +6,7 @@ import {Actions} from "react-native-router-flux";
 
 type Props = {};
 export default class Home extends Component<Props> {
+
     render() {
         return (
             <View style={styles.container}>

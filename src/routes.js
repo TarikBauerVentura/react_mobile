@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
 import {Router, Scene} from 'react-native-router-flux';
-
 import Login from './components/login'
 import Register from './components/register'
 import Home from './components/home'
 
 type Props = {};
 export default class Routes extends Component<Props> {
+
     render() {
         return (
             <Router>
