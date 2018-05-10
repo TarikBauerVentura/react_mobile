@@ -5,7 +5,7 @@ export default styles = StyleSheet.create({
         flex: 1,
         justifyContent: 'center',
         alignItems: 'center',
-        backgroundColor: '#455a64'
+        backgroundColor: '#00897b'
     },
     input: {
         fontSize: 25,
@@ -19,7 +19,7 @@ export default styles = StyleSheet.create({
     button: {
         width: 300,
         height: 40,
-        backgroundColor: '#1c313a',
+        backgroundColor: '#37474f',
         borderRadius: 30,
         paddingHorizontal: 15,
         marginVertical: 10
